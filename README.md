@@ -14,7 +14,7 @@
 - 🌱 I’m learning **Next.js, TypeScript, and DevOps**
 - 💬 Ask me about **MERN, REST APIs, and UI design**
 - 👨‍💼 Open for freelance, team collaborations & internships
-- 🌐 Portfolio: [https://your-website.com](https://jayasuryamn-portfolio.netlify.app/))
+- 🌐 Portfolio: [https://my-portfolio-website.com](https://jayasuryamn-portfolio.netlify.app/))
 
 ---
 
