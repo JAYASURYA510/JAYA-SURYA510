@@ -1,4 +1,4 @@
-# JAYA-SURYA510
+
 <h1 align="center">Hi 👋, I'm Surya N</h1>
 <h3 align="center">🚀 MERN Full Stack Developer | Code Artist 🎨</h3>
 
